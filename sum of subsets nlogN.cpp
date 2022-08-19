@@ -29,3 +29,4 @@ int main(){
     cin>>k;
     numsum(array,k);
 }
+//code by JOHN.P
